@@ -1,6 +1,4 @@
-Got it 👍 You want a simple **README.md** guide that explains how to run your **Maths Quiz project** with a React frontend and Node.js backend. Here’s a clean version you can use:
 
----
 
 # 🧮 Maths Quiz Application
 
